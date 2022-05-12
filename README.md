@@ -1,6 +1,6 @@
-# jassan-repo
+Xerxes installation script
 
-apt install git -y
+$  apt install git -y
 
 $  apt install nmap -y
 
